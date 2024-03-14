@@ -77,7 +77,7 @@ export const Nav = () => {
           </div>
         </div>
         <ul
-          className="hidden pt-4 list-none bg-orange-100 border-t md:hidden h-lvh border-slate-300"
+          className="hidden pt-4 list-none bg-orange-100 border-t md:hidden h-full border-slate-300"
           ref={menuRef}
         >
           <li className="px-2 py-1 mx-2 text-sm font-semibold text-orange-950 hover:bg-yellow-50 hover:rounded-3xl hover:text-orange-600">
