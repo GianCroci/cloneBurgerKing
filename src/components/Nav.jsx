@@ -21,22 +21,22 @@ export const Nav = () => {
             <img src={logo} alt="" />
           </div>
           <ul className="hidden list-none md:flex">
-            <li className="px-2 py-1 mx-3 text-sm font-semibold text-burgerking-300 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
+            <li className="px-2 py-1 mx-3 text-sm font-semibold cursor-pointer text-burgerking-300 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
               Pedi tu combo favorito
             </li>
-            <li className="px-2 py-1 mx-3 text-sm font-semibold text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
+            <li className="px-2 py-1 mx-3 text-sm font-semibold cursor-pointer text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
               Menu
             </li>
-            <li className="px-2 py-1 mx-3 text-sm font-semibold text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
+            <li className="px-2 py-1 mx-3 text-sm font-semibold cursor-pointer text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
               Cupones
             </li>
-            <li className="px-2 py-1 mx-3 text-sm font-semibold text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
+            <li className="px-2 py-1 mx-3 text-sm font-semibold cursor-pointer text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
               Restaurantes
             </li>
-            <li className="px-2 py-1 mx-3 text-sm font-semibold text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
+            <li className="px-2 py-1 mx-3 text-sm font-semibold cursor-pointer text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
               Novedades
             </li>
-            <li className="px-2 py-1 mx-3 text-sm font-semibold text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
+            <li className="px-2 py-1 mx-3 text-sm font-semibold cursor-pointer text-orange-950 hover:bg-burgerking-200 hover:rounded-3xl hover:text-burgerking-400">
               Delivery
             </li>
           </ul>
