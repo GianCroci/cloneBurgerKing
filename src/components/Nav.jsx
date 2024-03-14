@@ -15,7 +15,7 @@ export const Nav = () => {
 
   return (
     <>
-      <nav className="fixed z-50 w-dvw">
+      <nav className="fixed z-50 w-full">
         <div className="flex items-center justify-between px-3 py-2 bg-orange-100 md:justify-start">
           <div className="w-12 h-12 ml-4">
             <img src={logo} alt="" />
